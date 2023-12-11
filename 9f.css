@@ -1,0 +1,65 @@
+.facebook-interface{
+    width: 200px;
+    height: 320px;
+    font-family: ARial;
+    border: none;
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 15px;
+}
+
+.facebook-interface-2{
+    width: 200px;
+    height: 320px;
+    font-family: ARial;
+    border: none;
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 15px;
+}
+
+.facebook-interface-3{
+    width: 200px;
+    height: 320px;
+    font-family: ARial;
+    border: none;
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 15px;
+}
+
+.profile-picture{
+    width: 200px;
+    height: 200px;
+}
+
+.friend-name{
+    font-weight: bold;
+    font-size: 16px;
+    padding-left: 6px;
+    margin-bottom: 5px;
+}
+
+.mutual-friend-stats{
+    font-size: 14px;
+    color:rgb(135, 139, 138);
+    padding-left: 6px;
+    margin-top: 3px;
+}
+
+.add-button{
+    background-color:rgb(8, 145, 237);
+    color: white;
+    font-family:Arial;
+    font-size: 14px;
+    border: none;
+    border-radius: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 6px;
+}
